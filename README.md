@@ -3,9 +3,10 @@
   <a href="https://jun-design-sketch.hatenablog.com/">Blog</a>
 </p>
 <br>
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jun-design-sketch&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</a>
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Jun-design-sketch&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" alt="GitHub Stats" />
-</a>
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jun-design-sketch&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;card_width=850"
+    alt="Most Used Languages"
+  />
+</p>
