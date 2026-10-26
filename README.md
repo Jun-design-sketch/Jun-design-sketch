@@ -6,7 +6,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jun-design-sketch&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;card_width=850&amp;exclude_repo="
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jun-design-sketch&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;card_width=850&amp;hide=css,html"
     alt="Most Used Languages"
   />
 </p>
