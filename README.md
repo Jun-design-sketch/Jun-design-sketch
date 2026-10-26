@@ -6,7 +6,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jun-design-sketch&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;card_width=850&amp;exclude_repo=react_prac,react-java-db-app,react-covid-tracker,react-weather,first_web_app"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jun-design-sketch&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;card_width=850&amp;exclude_repo=react_prac,react-java-db-app,react-covid-tracker,react-weather,first_web_app,spring_boot_todo_app"
     alt="Most Used Languages"
   />
 </p>
